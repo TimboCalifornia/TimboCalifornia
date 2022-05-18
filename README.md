@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TimboCalifornia
 - 👀 I’m interested in data/business analytics in the pursuit of evidence-driven policy-making. 
-- 🌱 I’m currently honing my Excel skills and expanding into Python, SQL, and PowerBI. 
-- 💞️ I’m looking to collaborate on public policy data research, especially economics, public health, and electoral/political data. 
+- 🌱 I’m transitioning from Excel and STATA towards SQL, R, Python, and Tableau. 
+- 💞️ I’d like to collaborate on public policy data research, especially economic, public health, and/or political data. 
 - 📫 Message me on Git if you want! 
 
 <!---
