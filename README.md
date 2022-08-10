@@ -6,7 +6,7 @@
 
 I generally focus on Kaggle more (than GitHub) and complete .ZIP dataset archives will be hosted on Kaggle. 
 My files hosted here include the .RMD and their knitted .HTML outputs of the following, structured as below.  
-- "apha" v001 learning work, mostly from the Google Coursera training 
+- "alpha" v001 learning work, mostly from the Google Coursera training 
 - "beta" v01 projects, mostly practicing my skills doing analysis on issues that are important to me 
 - "real" v1.0 projects, where I collaborate with others to build out my portfolio 
 
